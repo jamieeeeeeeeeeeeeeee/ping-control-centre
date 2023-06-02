@@ -1,0 +1,5 @@
+/home/jamie/Documents/source/thingforpapa/build/CMakeFiles/imgui.dir
+/home/jamie/Documents/source/thingforpapa/build/CMakeFiles/glfw3.dir
+/home/jamie/Documents/source/thingforpapa/build/CMakeFiles/papa.dir
+/home/jamie/Documents/source/thingforpapa/build/CMakeFiles/edit_cache.dir
+/home/jamie/Documents/source/thingforpapa/build/CMakeFiles/rebuild_cache.dir
